@@ -1,2 +1,2 @@
 # Project2
-Its just start of Git  
+This this description of Project
